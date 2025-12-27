@@ -30,3 +30,68 @@ DataTable concept, attributes in BDD framework
 ------------------------------------------------------------------------------
 CICD and Jenkins
 -----------------------------------------------------------------------------
+
+
+L1
+--------------------------------------------
+
+# introduction
+Self intro, what are the tools and technologies you have worked on and what are your roles and responsibilities are?
+
+# Api autimation
+in rest assured,  how you perform serialization and deserialization apart from POJO, what approaches you are aware?
+
+API mocking, stubbing. How we can perform it?
+
+Can you tell me like difference between Jason path and Jason object when to use Jason path when to Jason object?
+
+Authentications, Have you worked with auth one or two? You know when to use auth one? When to use auth 2?
+
+What are the design patterns you got chance to work on API automation.
+Explain singleton decorator builder this you got chance to explore? So suppose I have a class with me, how we can convert any class to Singleton,
+What are the steps we need to follow?
+
+Can you tell me functional difference between page object model and page factory?
+
+
+# CICD 
+how much exposure  you have 
+how we can provide multiple parameter to the jenkins job?
+suppose you join any project and there is a requirement for CICD integration like as soon as developer push their code, our automation pipeline should trigger automatically.
+How we can configure this thing?
+Have you worked with Sonar Cube anytime, What are the quality gates there like that?
+
+# STLC / SDLC
+as per your experience, you got chance to contribute on test strategy, test plan creation?
+What's the thing we will add in test strategy document which are not there in test plan?
+
+in agile what are the story estimation approaches you are aware?
+There are 5-6 approaches in agile, Can you name for story estimation approaches?
+
+test pyramid approach?
+
+suppose you join any project as a lead or senior guy,  and client ask you to share some metrics.
+So what client specific metrics you will share like as per your experience only client specific metrics, can you name few of them, Can you name for quality metrics?
+
+# programs
+list of string "bad, cat, dog, Apple" and all and we need to group them as per their length.?
+
+#Java
+Difference between different colletions like hashmap vs treemap
+
+#  Framework 
+you work with testNg ,BDD ?
+parallel execution?
+Scenario context?
+testng listeners?
+How to implement log 4 J?
+clean code principles ?
+web automation like how you work with remote executions like integration with browser stack, Selenium grid.
+
+
+# version control 
+what is the use of rebase and merge command?
+What approach you follow for conflict resolution?
+
+# AI
+And any AI tool you started exploring that you are aware that you are using in your SDLC process in a real time experience 
