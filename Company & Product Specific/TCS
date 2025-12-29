@@ -1,1 +1,47 @@
+-----------------------------------------------------------------------------------
+L1
+-----------------------------------------------------------------------------------
+# programs
+String s="kavya"; output: count no of characters
 
+# Java
+oops
+collections, list vs set
+final vs finally
+exceptions
+
+# Automation- Selenium, testng,
+findelement vs findelements, if element not found using findelements what will happen
+testng annotations, test priorities
+actions class
+
+#api
+api status codes and response
+
+
+----------------------------------------------------------------------------------------
+L2
+-----------------------------------------------------------------------------------------
+# java
+Explain Interface 
+
+# Automation - Selenium
+How do you configure WebDriver
+
+# programs
+  ## explain output
+      String s = "Hi";
+      s.append("Hello"); [or] s.concat("Hello");
+      System.out.print(s);
+  ## Iterate the map and print the output as shown below:
+      Country1 = Capital1
+      Country2 = Capital2
+      Country3 = Capital3
+      Country4 = Capital4
+      Map<String, String> map = new LinkedHashMap<String, String>();
+      map.put("Country1", "Capital1");
+      map.put("Country2", "Capital2");
+      map.put("Country3", "Capital3");
+      map.put("Country4", "Capital4"); 
+  ## Count the characters and print like, a2 A3 b3 B1 a4 d1 c3 B4
+      String s = “aaAAAbbbBaaaadcccBBBB”;
