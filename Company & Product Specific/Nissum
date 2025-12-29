@@ -9,8 +9,8 @@ Types of interface
 Method overloading
 
 ## programs
-Int array, target sum of 9, output index of summed nos
-Reverse no
+Integer array nums = [2,7,11,15], target sum of 9, output index of summed nos. Output: [0,1]
+Reverse no - reverse 123 to 321
 Sort array
 
 ## performance testing
@@ -22,6 +22,7 @@ Poster validation - diff platforms, cross browser
 ## API
 Api enpoint validations - contract validation
 api basics
+write api test for get method, verify status and response body.
 
 ## Automation
 Webdriver initiation
